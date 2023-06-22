@@ -27,10 +27,10 @@ I am Back End developer.
 ### Skills
 
 <p align="left">
-<a href="https://dev.java/" target="_blank" rel="noreferrer"><img src="https://icon-icons.com/it/icona/java-originale-wordmark-logo/146459" width="36" height="36" alt="Java" /></a> &nbsp;
-<a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://icon-icons.com/it/icona/file-di-tipo-di-nestjs/130355" width="36" height="36" alt="NestJs" /></a> &nbsp;
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://icon-icons.com/it/icona/postgresql-normale-wordmark-logo/146390" width="36" height="36" alt="Postgresql" /></a> &nbsp;
-<a href="https://www.mysql.com/it/" target="_blank" rel="noreferrer"><img src=https://icon-icons.com/it/icona/mysql-originale-wordmark-logo/146417" width="36" height="36" alt="React" /></a> &nbsp; <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://icon-icons.com/it/icona/mobile-originale-wordmark-logo/146557" width="36" height="36" alt="Sass" /></a> &nbsp; <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg](https://icon-icons.com/it/icona/git-originale-wordmark-logo/146510)" width="36" height="36" alt="TailwindCSS" /></a> 
+<a href="https://dev.java/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/22852328/247852226-4d42c394-2838-44d4-952d-7a04b186dcf7.png" width="36" height="36" alt="Java" /></a> &nbsp;
+<a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/22852328/247853879-34579acd-29ed-43b1-9a62-e5472f9bf5d1.png" width="36" height="36" alt="NestJs" /></a> &nbsp;
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/22852328/247854213-f594c20e-cc26-4d09-a25d-888da36ebd6c.png" width="36" height="36" alt="Postgresql" /></a> &nbsp;
+<a href="https://www.mysql.com/it/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/22852328/247853260-ff586f64-7100-469e-89fb-0b0919160b68.png" width="36" height="36" alt="MySQL" /></a> &nbsp; <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/22852328/247853262-5de6a727-6aa7-4d68-8d90-51507099258f.png" width="36" height="36" alt="Docker"/></a> &nbsp; <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/22852328/247853268-13d1bf66-895f-486d-a5ec-3670c7def2f6.png" width="36" height="36" alt="TailwindCSS" /></a> 
 
 ### Socials
 
