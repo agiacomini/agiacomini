@@ -20,7 +20,7 @@ I am Back End developer.
 --------------------------
 
 *   🌍  I'm based in Darfo BT (BS), Italy
-*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://andrea.giacomini.com/'>Portfolio</a>
+*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://andrea.giacomini.com/'>andrea.giacomini.com</a>
 *   🧠  Currently learning Nest.js
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
